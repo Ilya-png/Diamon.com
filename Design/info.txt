@@ -1,0 +1,19 @@
+Files list:
+
+home.page.psd
+typography-and-basic-styles.page.psd
+catalog-grid.page.psd
+catalog-list.page.psd
+catalog-product-view.page.psd
+shoping-cart.page.psd
+proceed-to-checkout.page.psd
+products-comparison.page.psd
+login.page.psd
+contact-us.page.psd
+404.page.psd
+blog-posts.page.psd
+blog-post-view.page.psd
+
+Fonts used:
+
+PT-Sans
